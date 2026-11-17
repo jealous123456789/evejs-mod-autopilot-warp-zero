@@ -5,7 +5,7 @@
     "name": "普罗旺斯煎饼果子"
   },
   "category": "玩法",
-  "changelog": "",
+  "changelog": "适配261115.2服务端",
   "conflicts": [],
   "delisted": false,
   "description": "自动导航到星门与空间站时，跃迁距离改为0米；最后一跳前往目标空间站时也直接跃迁到0米。手动跃迁距离不受影响。",
@@ -14,11 +14,12 @@
     {
       "mirror": "github",
       "priority": 1,
-      "url": "https://github.com/jealous123456789/evejs-mod-autopilot-warp-zero/releases/download/v1.0.0/autopilot-warp-zero-1.0.0.zip"
+      "url": "https://github.com/jealous123456789/evejs-mod-autopilot-warp-zero/releases/download/v1.0.1/autopilot-warp-zero-1.0.1.zip"
     }
   ],
   "evejsVersions": [
-    "261108.x"
+    "261108.x",
+    "261115.x"
   ],
   "featured": false,
   "highlights": [
@@ -29,18 +30,18 @@
   ],
   "history": [],
   "id": "autopilot-warp-zero",
-  "publishedAt": "2026-11-12",
+  "publishedAt": "2026-11-17",
   "readme": [
     "自动导航到星门与空间站时，跃迁距离改为0米；最后一跳前往目标空间站时也直接跃迁到0米。"
   ],
   "repo": "https://github.com/jealous123456789/evejs-mod-autopilot-warp-zero",
   "requiresRestart": true,
-  "sha256": "46417039a01dc72a97f7bf83c64a30e0be7fb7b6462aa7283299a6c08fa0c67f",
-  "sizeBytes": 10457,
+  "sha256": "8148f32b2b64677345bf43699ef3c0b1369ab8466c25035152b2bdcf3954dddd",
+  "sizeBytes": 10547,
   "tags": [
     "自动导航",
     "跃迁",
     "玩法"
   ],
-  "version": "1.0.0"
+  "version": "1.0.1"
 }
